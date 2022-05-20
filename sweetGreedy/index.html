@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="css/menu.css">
+    <link rel="icon" href="image/icone.png" />
+    <script src="js/jogo.js"></script>
+    <title>Sweet Greedy</title>
+</head>
+<body>
+   <div id="menu">
+       <img src="image/fundo_menu.gif" alt="">
+       <audio src="midia/Twirly Tops - The Green Orbs.mp3" autoplay loop></audio>
+       <button id="btnJogar" class="jogar" onclick="iniciaModal()">Jogar</button>
+        <h1 id="nomeJogo">Sweet Greedy</h1>
+    </div>
+
+    <div id="modalInfo" class="modal-container">
+        <div class="modal">
+            <button class="fechar" onclick="fechaModal()">x</button>
+            <h1 class="subtitulo">Como Jogar</h1>
+            <br>
+            <h4 class="text"> Bem vindo ao Sweet Greedy!</h4>
+            <br>
+            <p>Nesse joguinho o fofinho guloso precisa comer 10 plantinhas antes do tempo acabar. Assim que ele come 10
+                plantinhas você muda de fase, mas cuidado, o tempo vai ficando mais curto a cada fase que é
+                avançada.
+            </p>
+            <br>
+            <form action="">
+                <input type="text" name="name" id="name" class="input" placeholder=" Digite Nome">
+                <a href="sweetGreedy.html"><input type="button" id="buttonEnviar" class="button" value="Enviar" onclick="recebendoNome()"  autocomplete="off"></a>
+            </form>
+        </div>
+    </div>
+</body>
+</html>
