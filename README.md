@@ -13,11 +13,11 @@ O jogo inicia com 60 segundos, para mudar de fase é preciso que o panda coma 10
 
 -Tela do Modal explicando o jogo e contendo local para inserir seu nome.
 
-![IMG-20220520-WA0008](https://user-images.githubusercontent.com/101207167/172226197-87f353ec-e6ad-4a21-ab09-b93a9bb128d0.jpg)
+![IMG-20220520-WA0012](https://user-images.githubusercontent.com/101207167/172226353-5fbaf26c-0ae1-4e12-9bb8-50bc5c1f07e3.jpg)
 
 - Tela de jogo, onde é possível visualizar o tempo, os pontos, a fase, record e o nome.
 
-![IMG-20220520-WA0012](https://user-images.githubusercontent.com/101207167/172226353-5fbaf26c-0ae1-4e12-9bb8-50bc5c1f07e3.jpg)
+![IMG-20220520-WA0008](https://user-images.githubusercontent.com/101207167/172226197-87f353ec-e6ad-4a21-ab09-b93a9bb128d0.jpg)
 
 - Tela pós perda de jogo
 
