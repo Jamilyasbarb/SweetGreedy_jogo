@@ -5,7 +5,7 @@ Jogo para fixar o aprendizado de manipulação da DOM
 
 O jogo inicia com 60 segundos, para mudar de fase é preciso que o panda coma 10 plantinhas. Indo para a próxima fase, os pontos são zerados e é retirado 10 segundos do tempo total.
 
-##Interfaces💻
+## Interfaces💻
 
 -Tela de início
 
